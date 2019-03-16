@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="38" started-at="2019-03-16T11:55:26Z" finished-at="2019-03-16T11:55:26Z">
+    <groups>
+    </groups>
+    <test name="mytest" duration-ms="38" started-at="2019-03-16T11:55:26Z" finished-at="2019-03-16T11:55:26Z">
+      <class name="JTMaven.JTMaven.TestNG1">
+        <test-method status="PASS" signature="f()[pri:0, instance:JTMaven.JTMaven.TestNG1@337d0578]" name="f" duration-ms="15" started-at="2019-03-16T17:25:26Z" finished-at="2019-03-16T17:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- JTMaven.JTMaven.TestNG1 -->
+      <class name="JTMaven.JTMaven.TestNG2">
+        <test-method status="PASS" signature="f()[pri:0, instance:JTMaven.JTMaven.TestNG2@735b478]" name="f" duration-ms="2" started-at="2019-03-16T17:25:26Z" finished-at="2019-03-16T17:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- JTMaven.JTMaven.TestNG2 -->
+    </test> <!-- mytest -->
+  </suite> <!-- mySuite -->
+</testng-results>

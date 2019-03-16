@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mySuite">
+<test name="mytest">
+<classes>
+<class name="JTMaven.JTMaven.TestNG1">
+</class>
+<class name="JTMaven.JTMaven.TestNG2">
+</class>
+</classes>
+</test>
+</suite>
