@@ -5,9 +5,7 @@ import org.testng.annotations.Test;
 public class TestNG1 {
   @Test
   public void f() {
-
-	  System.out.println("In TestNG1 Dated on 116 March 18 March-211");
-  }
+	  System.out.println("In TestNG1 Dated on 1 16 March 1 18 March-1-3000");
 
 	  }
 
